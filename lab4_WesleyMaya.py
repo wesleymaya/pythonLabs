@@ -4,7 +4,7 @@
 def is_eligible(age,citizenship,prison):
 
      '''
-     (int,string,string) -> (boolean)
+     (int,string,string) -> (bool)
 
      Description
      This function returns whether you are eligible to vote in Canada.
@@ -135,7 +135,7 @@ def pyrimid(num):
 def prime(num):
 
     '''
-    (int) -> (boolean)
+    (int) -> (bool)
 
     Description
     This function returns whether num is a prime number or not in the form of a boolean.
